@@ -1,0 +1,491 @@
+.navbar{
+    position: absolute;
+width: 1440px;
+height: 116px;
+left: 0px;
+top: 0px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.heading{
+    /* A few words about this blog platform, Ghost, and how this site was made */
+
+
+position: absolute;
+width: 858px;
+height: 162px;
+left: 291px;
+top: 186px;
+
+font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 54px;
+line-height: 100%;
+/* or 54px */
+
+text-align: center;
+
+color: #000000;
+
+
+}
+.bottom-heading{
+    position: absolute;
+width: 626px;
+height: 68px;
+left: 407px;
+top: 380px;
+
+font-family: SF Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.image2{
+    position: absolute;
+width: 1440px;
+height: 960px;
+left: 0px;
+top: 438px;
+
+background: url(.png);
+}
+.border-1{
+    position: absolute;
+width: 640px;
+height: 0px;
+left: 400px;
+top: 1432px;
+
+border: 2px solid #000000;
+}
+.Mask{
+    position: absolute;
+width: 104px;
+height: 56px;
+left: 280px;
+top: 1456px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.Mika{
+    position: absolute;
+width: 191px;
+height: 46px;
+left: 472px;
+top: 1461px;
+}
+.lorem{
+    position: absolute;
+width: 680px;
+height: 238px;
+left: 400px;
+top: 1565px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+text-align: justify;
+
+color: #000000;
+}
+.pipe{
+    position: absolute;
+width: 288px;
+height: 51px;
+left: 0px;
+top: 330px;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 160%;
+/* or 51px */
+
+
+color: #000000;
+}
+.duis{
+    position: absolute;
+width: 640px;
+height: 228px;
+left: 0px;
+top: 400px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.angle{
+    position: absolute;
+width: 854px;
+height: 570px;
+left: 293px;
+top: 2215px;
+
+background: url(.jpg);
+}
+.caption{
+    position: absolute;
+width: 481px;
+height: 44px;
+left: 479px;
+top: 2797px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #000000;
+}
+.viverra{
+    position: absolute;
+width: 640px;
+height: 272px;
+left: 400px;
+top: 2893px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.list-look{
+    position: absolute;
+width: 640px;
+height: 34px;
+left: 385px;
+top: 3217px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* identical to box height, or 34px */
+
+
+color: #000000;
+}
+.list{
+    position: absolute;
+width: 588px;
+height: 168px;
+left: 375px;
+top: 3270px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.aptent{
+    position: absolute;
+width: 640px;
+height: 68px;
+left: 385px;
+top: 3490px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.read{
+    position: absolute;
+width: 640px;
+height: 68px;
+left: 385px;
+top: 3610px;
+
+font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+
+}
+.iconfb{
+    position: absolute;
+width: 280px;
+height: 154px;
+left: 1000px;
+top: 1480px;
+
+}
+.icontweet{
+    position: absolute;
+    width: 280px;
+    height: 154px;
+    left: 1050px;
+    top: 1480px;
+    
+}
+.bottomfb{
+    position: absolute;
+width: 640px;
+height: 64px;
+right: 600px;
+top: 3755px;
+
+background: #FFFFFF;
+border: 1px solid #EAEAEA;
+box-sizing: border-box;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+}
+.bottomtweet{
+    position: absolute;
+    width: 640px;
+    height: 64px;
+    right: 200px;
+    top: 3755px;
+    
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}.tag{
+    position: absolute;
+width: 240px;
+height: 19px;
+left: 399px;
+top: 3851px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #0C0C0C;
+}
+.bottom-mask{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 400px;
+top: 3940px;
+}
+.bottom-masktext{
+    position: absolute;
+width: 543px;
+height: 78px;
+left: 494px;
+top: 3936px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #0C0C0C;
+}
+.hrline{
+    position: absolute;
+width: 1440px;
+height:0px;
+left: 0px;
+top: 4100px;
+
+border: 1px solid #000000;
+}
+.eye{
+    position: absolute;
+width: 82px;
+height: 64.29px;
+left: 679px;
+top: 4060px;
+
+}
+h3{
+    position: absolute;
+    left: 620px;
+    top: 4160px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.pic-1{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4299px;
+
+background: url(.png);
+}
+.pic-2{
+    position: absolute;
+    width: 304px;
+    height: 176px;
+    left: 553px;
+    top: 4299px;
+    
+    background: url(.png);
+}
+.pic-3{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4299px;
+
+background: url(.png);
+}
+.pic-4{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 221px;
+top: 4607px;
+
+background: url(.png);
+}
+.pic-5{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 553px;
+top: 4607px;
+}
+.pic-6{
+    position: absolute;
+width: 304px;
+height: 176px;
+left: 885px;
+top: 4607px;
+
+background: url(.png);
+}
+/*Box border..........box started from here*/
+.box{
+    position: absolute;
+    width: 444px;
+    height: 28px;
+    left: 370px;
+    top: 5083px;
+    
+    font-family: New York Extra Large;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 28px;
+    /* identical to box height, or 78% */
+    
+    text-align: center;
+    
+    color: #090909;
+}
+.text{
+    position: absolute;
+width: 550px;
+height: 56px;
+left: 100px;
+top: 50px;
+
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+text-align: center;
+
+color: #090909;
+
+}
+/*box*/
+.email{
+    position: absolute;
+width: 400px;
+height: 40px;
+left: 500px;
+top: 5221px;
+
+}
+button{
+    position: absolute;
+width: 100px;
+height: 40px;
+left: 880px;
+top: 5221px;
+background-color: black;
+color: white;
+
+}
+
+.black{
+    position: absolute;
+width: 1451px;
+height: 464px;
+left: -4px;
+top: 5445px;
+
+}
